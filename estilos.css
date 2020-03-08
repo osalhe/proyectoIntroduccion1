@@ -4,4 +4,14 @@ h1{
 footer{
     background-color: gray;
 }
-.textofooter{color: white;}
+.textofooter{color: white;
+    text-align: center;
+}
+.imagenfondo{
+    background-image: url(img/moto_pulsar_200_ns.jpg);
+    height: 635px;
+    background-attachment: fixed;
+}
+.tamañotexto{
+    font-size: 1.2em;
+}
