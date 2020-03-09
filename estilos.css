@@ -1,5 +1,6 @@
 h1{
     font-weight: bold;
+    
 }
 footer{
     background-color: gray;
@@ -14,4 +15,27 @@ footer{
 }
 .tamañotexto{
     font-size: 1.2em;
+}
+
+.titulopagina1{
+    font-weight: bold;
+    color: green;
+}
+
+.subtitulopag1{
+    font-weight: bold;
+    color: green;
+}
+
+#imagfondopag1{
+    background-image: url(img/RX115.jpg);
+    height: 280px;
+    background-attachment: fixed;
+
+}
+.texcont1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    text-align: justify;
 }
