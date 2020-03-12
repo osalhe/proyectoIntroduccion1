@@ -39,3 +39,23 @@ footer{
     color: green;
     text-align: justify;
 }
+.imagenfondopag2{
+    background-image: url(img/pulsarns.jpg);
+    height: 480px;
+    background-attachment: fixed;
+}
+.titulopagina2{
+    font-weight: bold;
+    color: blue;
+}
+.texcont2{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    text-align: left;
+}
+.texcont3{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;    
+}
